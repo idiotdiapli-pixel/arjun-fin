@@ -1,0 +1,6 @@
+{
+  "name": "ARJUN LOGISTIC",
+  "description": "Official business website for ARJUN LOGISTIC - Registered Micro Enterprise providing reliable road freight transport services (Udyam: UDYAM-BR-01-0059572).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
